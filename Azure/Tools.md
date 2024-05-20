@@ -15,3 +15,7 @@
 ###### Azure Community Policy
 
 - https://github.com/Azure/Community-Policy
+
+###### Express Route cheat sheet
+
+- https://techcommunity.microsoft.com/t5/azure-networking-blog/microsoft-azure-expressroute-overview-cheat-sheet/ba-p/4110389
